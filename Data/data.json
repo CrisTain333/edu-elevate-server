@@ -1,9 +1,11 @@
 [
     {
         "id":"01",
+        "name":"Basic C#",
         "title":"C# Basics for Beginners",
         "img":"https://img-c.udemycdn.com/course/480x270/382002_5d4a.jpg",
         "description":"C# is a beautiful cross-platform language that can be used to build variety of applications. With C#, you can build mobile apps (for Windows, Android and iOS), games, web sites and desktop applications.Once you master fundamentals of C# and programming with .NET framework, you'll have lots of options in front of you. You can choose to build mobile apps if you prefer, or you can change job and work as a web developer. As long as you know the fundamentals well, switching to different technology stacks is pretty easy.",
+        "rating":"4.4",
         "moreDetails":[
             {
                 "title":"Part 1: C# Basics for Beginners: Learn C# Fundamentals by Coding"
@@ -20,9 +22,11 @@
     },
     {
         "id":"02",
+        "name":"Data Structure",
         "title":"Data Structure & Algorithm using C++",
         "img":"https://img-c.udemycdn.com/course/480x270/3029640_0dc7_4.jpg",
         "description":"rand new course ready for the 2022 hiring season! Join a course taught by industry experts that have actually worked both at top tech firms. Graduates of this course are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook + other top tech companies.This is the ultimate resource to prepare you for coding interviews. Everything you need in one place!.This course is really amazing. instructor is going beyond and beyond each and every thing was my beyond expectations. really mastery course it is.",
+        "rating":"4.0",
         "moreDetails":[
             {
                 "title":"Learn the strengths and weaknesses of a variety of data structures"
@@ -39,9 +43,11 @@
     },
     {
         "id":"03",
+        "name":"Data Science",
         "title":"The Data Science Course 2022",
         "img":"https://img-c.udemycdn.com/course/480x270/1754098_e0df_3.jpg",
         "description":"Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist.",
+        "rating":"3.4",
         "moreDetails":[
             {
                 "title":"Start coding in Python and learn how to use it for statistical analysis"
@@ -56,9 +62,11 @@
     },
     {
         "id":"04",
+        "name":"Artificial Intelligence",
         "title":"Deep Learning and Artificial Intelligence",
         "img":"https://img-c.udemycdn.com/course/480x270/3885700_2995_8.jpg",
         "description":"When people talk about artificial intelligence, they usually don’t mean supervised and unsupervised machine learning. These tasks are pretty trivial compared to what we think of AIs doing - playing chess and Go, driving cars, and beating video games at a superhuman level.Reinforcement learning has recently become popular for doing all of that and more.Much like deep learning, a lot of the theory was discovered in the 70s and 80s but it hasn’t been until recently that we’ve been able to observe first hand the amazing results that are possible.",
+        "rating":"4.5",
         "moreDetails":[
             {
                 "title":"Understand reinforcement learning on a technical level"
@@ -73,9 +81,11 @@
     },
     {
         "id":"05",
+        "name":"Java",
         "title": "The Complete Java Development",
         "img":"https://img-c.udemycdn.com/course/480x270/1453872_c076_3.jpg",
         "description":"ava is one of the most used programming languages. It's easy to learn and can run on any machine. You can use Java for Web Development, Mobile Development, Automation, and much more.Becoming a Java developer creates endless opportunities, and this course will give you a competitive edge.The course is organized around two modules.",
+        "rating":"4.6",
         "moreDetails":[
             {
                 "title":"Be able to program in Java professionally."
@@ -91,9 +101,11 @@
     },
     {
         "id":"06",
+        "name":"Complete SQL",
         "title":"The Complete SQL Bootcamp 2022",
         "img":"https://img-c.udemycdn.com/course/480x270/762616_7693_3.jpg",
         "description":"Learn how to use SQL quickly and effectively with this course!You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more. Learning SQL is one of the fastest ways to improve your career prospects as it is one of the most in demand tech skills! In this course you'll learn quickly and receive challenges and tests along the way to improve your understanding",
+        "rating":"4.1",
         "moreDetails":[
             {
                 "title":"Use SQL to perform data analysis."
