@@ -20,6 +20,12 @@ app.get("/courses/:id",(req,res)=>{
     res.send(selectedData);
     
 })
+app.get("/checkout/:id",(req,res)=>{
+    const id = req.params.id;
+    const selectedData = data.find(d=> d.id === id)
+    res.send(selectedData);
+    
+})
 
 app.listen(port,()=>{
     console.log('App Fire On Port 5000')
