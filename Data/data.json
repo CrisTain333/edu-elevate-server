@@ -3,119 +3,86 @@
         "id":"01",
         "name":"Basic C#",
         "title":"C# Basics for Beginners",
-        "img":"https://img-c.udemycdn.com/course/480x270/382002_5d4a.jpg",
+        "img":"https://w0.peakpx.com/wallpaper/262/116/HD-wallpaper-c-sharp-logo-white-silk-texture-c-sharp-emblem-programming-language-c-sharp-silk-background.jpg",
         "description":"C# is a beautiful cross-platform language that can be used to build variety of applications. With C#, you can build mobile apps (for Windows, Android and iOS), games, web sites and desktop applications.Once you master fundamentals of C# and programming with .NET framework, you'll have lots of options in front of you. You can choose to build mobile apps if you prefer, or you can change job and work as a web developer. As long as you know the fundamentals well, switching to different technology stacks is pretty easy.",
         "rating":"4.4",
-        "moreDetails":[
-            {
-                "title":"Part 1: C# Basics for Beginners: Learn C# Fundamentals by Coding"
-            },
-            {
-                "title":"Part 2: C# Intermediate: Classes, Interfaces and Object-oriented Programming"
-            },
-            {
-                "title":"Part 3: C# Advanced: Take Your C# Skills to the Next Level"
-            }
-
-        ]
-
+        "authorName":"Jose Protilla",
+        "authorImg":"https://img-c.udemycdn.com/user/200_H/9685726_67e7_4.jpg",
+        "authorDetails":"Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science, Machine Learning and Python Programming. He has publications and patents in various fields such as microfluidics, materials science, and data science.",
+        "instructorRating":"4.6",
+        "totalStudents":"8,788",
+        "reviews":"5,896"
+            
+        
     },
     {
         "id":"02",
         "name":"Data Structure",
         "title":"Data Structure & Algorithm using C++",
-        "img":"https://img-c.udemycdn.com/course/480x270/3029640_0dc7_4.jpg",
+        "img":"https://s3.amazonaws.com/coursesity-blog/2020/07/data-structure-algorithm-courses.png",
         "description":"rand new course ready for the 2022 hiring season! Join a course taught by industry experts that have actually worked both at top tech firms. Graduates of this course are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook + other top tech companies.This is the ultimate resource to prepare you for coding interviews. Everything you need in one place!.This course is really amazing. instructor is going beyond and beyond each and every thing was my beyond expectations. really mastery course it is.",
         "rating":"4.0",
-        "moreDetails":[
-            {
-                "title":"Learn the strengths and weaknesses of a variety of data structures"
-            },
-            {
-                "title":"Develop your Analytical skills on Data Structure and use then efficiently."
-            },
-            {
-                "title":"Learn everything you need to ace difficult coding interviews"
-            }
-
-
-        ]
+        "authorName":"Elshad Karimov",
+        "authorImg":"https://img-c.udemycdn.com/user/200_H/31517360_e260.jpg",
+        "authorDetails":"I am Elshad Karimov and I am a Software Developer, online instructor , blogger and author of book, Data Structures and Algorithms in Swift. I have more than 10 years of software development experience with a solid background in Python  and Java  as well as Oracle PL/SQL, Swift and C#. I have been working in several companies and developed several extensions for financial and billing softwares. I have developed several games using Unity and mobile apps for different purposes.",
+        "instructorRating":"4.5",
+        "totalStudents":"10,788",
+        "reviews":"7,896"
     },
     {
         "id":"03",
         "name":"Data Science",
         "title":"The Data Science Course 2022",
-        "img":"https://img-c.udemycdn.com/course/480x270/1754098_e0df_3.jpg",
+        "img":"https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2019/12/what-is-data-science.jpg",
         "description":"Data scientist is one of the best suited professions to thrive this century. It is digital, programming-oriented, and analytical. Therefore, it comes as no surprise that the demand for data scientists has been surging in the job marketplace. However, supply has been very limited. It is difficult to acquire the skills necessary to be hired as a data scientist.",
-        "rating":"3.4",
-        "moreDetails":[
-            {
-                "title":"Start coding in Python and learn how to use it for statistical analysis"
-            },
-            {
-                "title":"Carry out cluster and factor analysis"
-            },
-            {
-                "title":"Apply your skills to real-life business cases"
-            }
-        ]
+        "authorName":"Jitesh Khurkhuriya",
+        "authorImg":"https://img-c.udemycdn.com/user/200_H/27980682_f139.jpg",
+        "authorDetails":"Jitesh has over 20 years of technology experience and worked as programmer, Product Head as well as the Data Scientist.  Jitesh has worked with various fortune 500 companies and governments across the world.As the Data Scientist and Anti-Fraud Expert, he was the member of the high-profile team to suggest tax reforms and amendments in VAT, Customs and Income Tax based on fraud pattern analysis, countrywide data mining and analysis, business process security analysis. This not only contributed to a revolutionary change in the tax processes but also reduced the tax and customs frauds. ",
+        "instructorRating":"4.6",
+        "totalStudents":"30,689",
+        "reviews":"26,089"
     },
     {
         "id":"04",
         "name":"Artificial Intelligence",
         "title":"Deep Learning and Artificial Intelligence",
-        "img":"https://img-c.udemycdn.com/course/480x270/3885700_2995_8.jpg",
+        "img":"https://thedigitaljournal.net/wp-content/uploads/2018/03/Untitled-1.jpg",
         "description":"When people talk about artificial intelligence, they usually don’t mean supervised and unsupervised machine learning. These tasks are pretty trivial compared to what we think of AIs doing - playing chess and Go, driving cars, and beating video games at a superhuman level.Reinforcement learning has recently become popular for doing all of that and more.Much like deep learning, a lot of the theory was discovered in the 70s and 80s but it hasn’t been until recently that we’ve been able to observe first hand the amazing results that are possible.",
         "rating":"4.5",
-        "moreDetails":[
-            {
-                "title":"Understand reinforcement learning on a technical level"
-            },
-            {
-                "title":"Implement 17 different reinforcement learning algorithms"
-            },
-            {
-                "title":"Apply gradient-based supervised machine learning methods to reinforcement learning"
-            }
-        ]
+        "authorName":"Kirill Eremenko",
+        "authorImg":"https://img-c.udemycdn.com/user/200_H/2364054_83cd_5.jpg",
+        "authorDetails":"My name is Kirill Eremenko and I am super-psyched that you are reading this!Professionally, I come from the Data Science consulting space with experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and since starting on Udemy I have passed on my knowledge to thousands of aspiring data scientists.",
+        "instructorRating":"4.5",
+        "totalStudents":"35,689",
+        "reviews":"23,089"
     },
     {
         "id":"05",
         "name":"Java",
         "title": "The Complete Java Development",
-        "img":"https://img-c.udemycdn.com/course/480x270/1453872_c076_3.jpg",
+        "img":"https://wallpapercave.com/wp/wp6599799.jpg",
         "description":"ava is one of the most used programming languages. It's easy to learn and can run on any machine. You can use Java for Web Development, Mobile Development, Automation, and much more.Becoming a Java developer creates endless opportunities, and this course will give you a competitive edge.The course is organized around two modules.",
         "rating":"4.6",
-        "moreDetails":[
-            {
-                "title":"Be able to program in Java professionally."
-            },
-            {
-                "title":"Become proficient in Java 11"
-            },
-            {
-                "title":"Learn Java best practices from a professional developer."
-            }
-        ]
+        "authorName":"Tim Buchalka",
+        "authorImg":"https://img-c.udemycdn.com/user/200_H/599932_71aa_5.jpg",
+        "authorDetails":"Tim's been a professional software developer for close to 40 years.  During his career, he has worked for major companies such as Fujitsu, Mitsubishi, and Saab.His video courses are used to train developers in major companies such as Mercedes-Benz, Paypal, VW, Pitney Bowes, IBM, and T-Mobile just to name a few (via the Udemy for Business program).",
+        "instructorRating":"4.1",
+        "totalStudents":"11,689",
+        "reviews":"3,089"
 
     },
     {
         "id":"06",
         "name":"Complete SQL",
         "title":"The Complete SQL Bootcamp 2022",
-        "img":"https://img-c.udemycdn.com/course/480x270/762616_7693_3.jpg",
+        "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--2IiR1ZVK--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15utqnbl0s7x63q54crj.jpg",
         "description":"Learn how to use SQL quickly and effectively with this course!You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more. Learning SQL is one of the fastest ways to improve your career prospects as it is one of the most in demand tech skills! In this course you'll learn quickly and receive challenges and tests along the way to improve your understanding",
         "rating":"4.1",
-        "moreDetails":[
-            {
-                "title":"Use SQL to perform data analysis."
-            },
-            {
-                "title":"Use SQL to query a database"
-            },
-            {
-                "title":"Learn to perform GROUP BY statements"
-            }
-        ]
+        "authorName":"Colt Steele",
+        "authorImg":"https://img-c.udemycdn.com/user/200_H/4466306_6fd8_3.jpg",
+        "authorDetails":"Hi! I'm Colt. I'm a developer with a serious love for teaching. I've spent the last few years teaching people to program at 2 different immersive bootcamps where I've helped hundreds of people become web developers and change their lives. My graduates work at companies like Google, Salesforce, and Square.",
+        "instructorRating":"4.4",
+        "totalStudents":"14,689",
+        "reviews":"5,089"
     }
 ]
