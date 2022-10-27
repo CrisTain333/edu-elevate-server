@@ -8,7 +8,7 @@ app.use(cors())
 const data = require('./Data/data.json')
 
 app.get('/',(req,res)=>{
-    res.send('App On Fire');
+    res.send('Server On Fire');
 })
 app.get('/courses',(req,res)=>[
     res.send(data)
